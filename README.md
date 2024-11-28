@@ -146,4 +146,4 @@ Este projeto foi desenvolvido para ser simples e escalável, com foco em produti
 - Salve o conteúdo acima em um arquivo chamado `README.md` dentro do diretório do seu projeto.
 - Esse arquivo agora serve como documentação para o seu repositório no GitHub, fornecendo uma descrição clara de como configurar e usar o projeto.
 
-Se precisar de mais alguma coisa, é só me avisar!
+
